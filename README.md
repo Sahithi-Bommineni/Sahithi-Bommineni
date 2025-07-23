@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi there, I am Sahithi Bommineni
 
-<!--
-**Sahithi-Bommineni/Sahithi-Bommineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Software Developer | 🖥️ Full Stack Enthusiast | 🌱 Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me 🚀
+
+- 🔭 I’m currently working on building impactful web applications using **React** and **Python**
+- 🌱 I’m currently learning more about cloud platforms like **AWS**
+- 👯 I’m looking to collaborate on open-source projects and meaningful apps that help real-world users.
+- 💬 Ask me about **Java**, **Python**, **MERN Stack** or anything tech
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/bommineni1999 | sahithi2499@gmail.com
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: 🧩 I find oddly satisfying joy in solving problems - especially the ones that make others run away!
+
+---
+
+### 🛠️ Tech Stack
+
+Languages: Java, JavaScript, Python, SQL
+Frameworks: Springboot, Nodejs, React, ExpressJs, Flask
+Databases: MongoDB, MySQL
+Tools: Git, Postman, Eclipse, VS Code
